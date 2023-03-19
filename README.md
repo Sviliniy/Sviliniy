@@ -1,6 +1,6 @@
 ### Hi there, I'm Vladislav 
 - I'm currently learning to work with Java
-- I will be glad to advice 
+- I'll be glad to advice 
 <!--
 **Sviliniy/Sviliniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
